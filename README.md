@@ -1,4 +1,4 @@
-# 🌟 Four Card Feature Section – Frontend Mentor Challenge\*\*
+# 🌟 Fully Responsive Four Card Feature Section\*\*
 
 <p align="center">
   <img src="design/desktop-design.jpg" alt="Blog Preview Card" width="50%">
